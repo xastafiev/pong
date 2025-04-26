@@ -1,2 +1,3 @@
 (library
- (name pong))
+ (name pong)
+ (libraries raylib))
